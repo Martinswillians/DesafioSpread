@@ -1,2 +1,2 @@
 # DesafioSpread
-Exercício de desáfio Spread Dio.
+Exercício de desáfio Spread Dio!
